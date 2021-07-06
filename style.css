@@ -29,6 +29,7 @@ text-decoration: none;
 }
 .intro h1 {
     font-size: 50px;
+    font-family: 'Oswald', sans-serif;
 }
 .intro h1 span {
     color: red;
