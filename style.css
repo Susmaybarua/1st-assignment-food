@@ -118,6 +118,12 @@ button{
     text-align: justify;
     
 }
+.first-title h3{
+  
+    color: rgb(28, 241, 21);
+    
+    
+}
 
 .items{
     display: flex;
