@@ -1,0 +1,185 @@
+.first-part{
+   
+    height: 650px;
+    background-color: aqua;
+    
+}
+.manu-bar{
+   padding-top: 20px;
+   padding-left: 600px;
+}
+.manu-bar-btn{
+    border-radius: 15px;
+   margin-left: 20px;
+   background-image: linear-gradient(white ,white );
+   font-weight: bolder;
+   text-shadow: 1px 0px 1px rgb(231, 68, 19);
+   font-size: 15px;
+  
+}
+.manu-bar-btn a{
+text-decoration: none;
+}
+.description{
+   
+    display: flex; 
+}
+.intro{
+    margin: 80px 30px 80px 140px;
+}
+.intro h1 {
+    font-size: 50px;
+}
+.intro h1 span {
+    color: red;
+}
+.intro p span {
+    color: red;
+}
+.intro-image{
+    margin:80px 90px 80px 50px ;
+}
+button{
+    background-image: linear-gradient(to right, orange , yellow);
+   width: 120px;
+   height: 50px;
+   border-radius: 50px;
+   font-weight: 900;
+}
+.about{
+    display: flex;
+    background-image: url(images/7.png);
+}
+.about-image{
+   margin-left: 150px; 
+   margin-top: 50px;
+}
+
+.person-image{
+    height: 400px;
+}
+.about-desc{
+    margin: 80px;
+    padding-left:200px ;
+}
+.about-desc p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+.about-desc h1 {
+    color: rgb(238, 12, 125);
+}
+.recipe{
+    text-align: center;
+    
+}
+.recipe h2{
+   color:rgb(12, 231, 77);
+
+}
+.recipe p{
+    padding: 0;
+    margin: 0 auto;
+    font-size: 18px;
+    color: tomato;
+
+}
+.recipe-title{
+    display: flex;
+    margin:0px 120px ;
+    background-color: blueviolet;
+
+}
+.recipe-title-bg{
+   
+    background-color: blueviolet;
+    margin-top: 15px;
+
+}
+
+.recipe-image {
+    width: 250px;
+    border-radius: 20px;
+    
+}
+.recipe-title p{
+   font-size: 18px;
+
+}
+.first-title{
+    box-shadow: 0px 0px 10px 10px rgba(230, 224, 224, 0.4);
+    border-radius: 25px;
+    width: 250px;
+    padding: 25px;
+    margin: 30px;
+    color: white;
+    text-align: justify;
+    
+}
+
+.items{
+    display: flex;
+    /* border:3px solid tomato; */
+    margin: 0 auto;
+    /* background-color: rgb(240, 6, 6); */
+    margin: 30px 0px;
+    /* border-radius: 20px; */
+}
+.ongoing{
+    border:1px solid rgb(71, 255, 126);
+    padding: 0px 10px;
+    margin:20px 20px 20px 400px;
+    background-color: rgb(20, 255, 39);
+    color: rgb(8, 8, 8);
+    border-radius: 20px;
+    box-shadow: 4px 4px 4px 4px rgba(2, 14, 4, 0.9);
+    width: 250px;
+   
+    
+}
+.upcoming{
+    border:1px solid rgb(71, 255, 126);
+    padding: 0px 10px;
+    margin: 20px;
+    background-color: rgb(255, 87, 20);
+    color: white;
+    border-radius: 20px;
+    box-shadow: 4px 4px 4px 4px rgba(2, 14, 4, 0.9);
+    width: 250px;
+}
+
+
+.view{
+    display: flex;
+    box-shadow: 0px 2px 4px 8px rgba(12, 230, 48, 0.2),0px 2px 4px 8px rgba(230, 224, 224, 0.2);
+    border-radius: 5px;
+    text-align: center;
+    width:78% ;
+    margin: 50px 160px;
+   
+}
+.view h1{
+    margin-bottom: 0px;
+    padding: 0px 0px 0px 2px;
+}
+.view p{
+    font-size: 15px;
+    padding: 0px 0px 20px 1px;
+    margin-top: 0px;
+    
+}
+.view-num{
+    margin: 0px 110px;
+   
+    
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: blanchedalmond;
+    padding: 5px 0px 50px 0px;
+}
+footer p {
+   font-size: 15px;
+}
